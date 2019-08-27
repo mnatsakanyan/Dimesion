@@ -1,0 +1,215 @@
+.block2{
+    height: 1770px;
+    background: linear-gradient(to top, #69be27 50%, #f8f4f4 50%);
+}
+
+.title p:first-child{
+    font-family: SourceSansPro;
+    font-size: 52px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.87;
+    letter-spacing: normal;
+    color: #445565;
+    padding-top: 90px
+}
+
+.title p:last-child{
+    font-family: SourceSansPro;
+    font-size: 52px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.87;
+    font-weight: 900;
+    letter-spacing: normal;
+    color: #445565;
+}
+
+.block_1{
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 40px;
+}
+
+.block_1 div{
+    width: 338px;
+    height: 310px;
+    background: #ffffff;
+    margin: auto
+}
+
+.block_1 div:first-child svg,.block_1 div:last-child svg{
+    margin-top: 20px
+}
+
+.block_1 div:nth-child(2) svg{
+    margin-top: 37px
+}
+
+.block_1 .text_1{
+    width: 290px;
+    height: 158px;
+    margin: 0 auto;
+    margin-top: 41px;
+    font-family: SourceSansPro;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #445565;
+}
+
+.block_1 .text_2{
+    width: 220px;
+    height: 158px;
+    margin: 0 auto;
+    margin-top: 31px;
+    font-family: SourceSansPro;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #445565;
+}
+
+.block_1 .text_3{
+    width: 240px;
+    height: 158px;
+    margin: 0 auto;
+    margin-top: 28px;
+    font-family: SourceSansPro;
+    font-size: 25px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #445565;
+}
+
+.block_2{
+    margin-top: 100px;
+}
+
+.carousel{
+    width: 960px;
+    margin: 0 auto
+}
+
+.carousel img{
+    height: 545px;
+}
+
+.carousel-control-next span{
+    right: -80px !important;
+    position: absolute;
+    margin-top: 20px
+}
+
+.carousel-control-prev span{
+    left: -80px !important;
+    position: absolute;
+    margin-top: 20px
+}
+
+.carousel-caption div{
+    width: 786px;
+    height: 385px;
+    border: solid 3px #ffffff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color:rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-caption,.carousel-caption{
+    position: unset;
+}
+
+.carousel-caption div p{
+    width: 460px;
+    font-family: SourceSansPro;
+    font-size: 45px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 52px;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.block_3 .text_title{
+    margin-top: 30px;
+    font-family: SourceSansPro;
+    font-size: 55px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.block_3 .text_1{
+    width: 950px;
+    padding-top: 50px;
+    font-family: SourceSansPro;
+    font-size: 35px;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    margin: 0 auto;
+    text-align: center;
+    color: #ffffff;
+
+}
+
+.block_3 .block_1-1{
+    width: 950px;
+    margin: 0 auto;
+}
+
+.block_3 .block_1-1 div{
+    width: 322px;
+    margin: 40px auto;
+}
+
+.block_3 .block_1-1 div p:first-child{
+    font-family: SourceSansPro;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.3;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.block_3 .block_1-1 div p:last-child{
+    font-family: SourceSansPro;
+    font-size: 22px;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.13;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+

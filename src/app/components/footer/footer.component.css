@@ -1,0 +1,117 @@
+footer{
+    width: 100%;
+    min-height: 338px;
+    background-color: #445565;
+    position: relative;
+}
+
+footer .footer_block{
+    padding-top: 48px;
+    width: 1300px;
+    margin: 0 auto;
+    border-bottom: 2px solid #5b6a77;
+    padding-bottom: 20px;
+}
+
+footer .footer_block .logo{
+    display: inline-block;
+}
+
+footer .footer_block .title{
+    display: inline-block;
+    float: right
+}
+
+footer .footer_block .title h2{
+    font-family: Georgia;
+    color: #69be28;
+}
+
+footer .footer_block2{
+    padding-top: 48px;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+footer .footer_block2 .nav{
+    display: inline-block;
+}
+
+footer .footer_block2 .nav_block{
+    display: inline-block;
+    float: right
+}
+
+footer .footer_block2 .nav div{
+    display: inline-block;
+}
+
+footer .footer_block2 .nav div:first-child{
+    margin-right: 90px;
+    margin-left: 10px;
+}
+
+footer .footer_block2 .nav div p a{
+    font-size: 18px;
+    color: #d2d6da;
+    font-weight: 400;
+    font-family: SourceSansPro
+}
+
+footer .footer_block2 .nav_block p{
+    font-size: 16px;
+    color: #d2d6da;
+    text-align: left;
+    font-weight: 700;
+    font-family: SourceSansPro
+}
+
+footer .footer_block2 .nav_block div span a{
+    font-size: 16px;
+    color: #d2d6da;
+    margin-right: 20px;
+    font-family: SourceSansPro
+}
+
+footer .footer_block2 .nav_block div span i{
+    font-size: 24px;
+    margin-right: 10px
+}
+
+footer .footer_block3{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+footer .footer-bott{
+    min-height: 50px;
+    background: #364450;
+    display: flex;
+    align-items: center;
+}
+
+footer .footer-bott ul li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 15px; 
+    padding-left: 15px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #989fa5;
+    border-right: 2px solid #989fa5;
+}
+
+footer .footer-bott ul li:last-child{
+    border: none
+}
+
+footer .footer_block3 div{
+    float: right;
+    font-size: 12px;
+    font-weight: 400;
+    color: #989fa5;
+}
+
+footer .footer-bott ul{
+    float: left;
+}

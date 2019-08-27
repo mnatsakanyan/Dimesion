@@ -1,0 +1,7 @@
+.block1{
+    background-image: url("/assets/images/experience centre.png");
+    height: 820px;
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: repeat-y;
+}
